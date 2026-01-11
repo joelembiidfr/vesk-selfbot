@@ -1,0 +1,11 @@
+{
+    "version": "2.6",
+    "token": "",
+    "prefix": "-",
+    "tiktok": "https://tiktok.com/@sk3lly.frr",
+    "guns": "https://guns.lol/sk3lly",
+    "afk": {
+        "enabled": false,
+        "message": "hi"
+    }
+}
