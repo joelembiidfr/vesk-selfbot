@@ -1,2 +1,1 @@
-
-python main.py
+start vesk.exe
